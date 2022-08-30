@@ -1,0 +1,12 @@
+﻿  UMT(latest).c
+C:\Users\JIMMY\Downloads\UMT(latest).c(84,10): warning C4101: 'nextOrd': unreferenced local variable
+C:\Users\JIMMY\Downloads\UMT(latest).c(185,10): warning C4101: 'nextOrd': unreferenced local variable
+C:\Users\JIMMY\Downloads\UMT(latest).c(265,17): warning C4033: 'books' must return a value
+C:\Users\JIMMY\Downloads\UMT(latest).c(312,13): warning C4033: 'confirmOrder' must return a value
+C:\Users\JIMMY\Downloads\UMT(latest).c(318,13): warning C4033: 'confirmOrder' must return a value
+C:\Users\JIMMY\Downloads\UMT(latest).c(325,24): warning C4047: 'return': 'char' differs in levels of indirection from 'char (__cdecl *)()'
+C:\Users\JIMMY\Downloads\UMT(latest).c(418,13): warning C4033: 'nextOrder' must return a value
+C:\Users\JIMMY\Downloads\UMT(latest).c(326): warning C4715: 'confirmOrder': not all control paths return a value
+C:\Users\JIMMY\Downloads\UMT(latest).c(279): warning C4716: 'books': must return a value
+C:\Users\JIMMY\Downloads\UMT(latest).c(426): warning C4715: 'nextOrder': not all control paths return a value
+  Project1.vcxproj -> C:\Users\JIMMY\OneDrive\Desktop\pcd1\Project1\Debug\Project1.exe
